@@ -1,0 +1,13 @@
+port_name,locode,latitude,longitude
+Houston,USHOU,"29°45'00""N","95°17'00""W"
+New Orleans,USMSY,"29°57'00""N","90°03'00""W"
+Tampa,USTPA,"27°55'00""N","82°27'00""W"
+Miami,USMIA,"25°47'00""N","80°11'00""W"
+Jacksonville,USJAX,"30°19'00""N","81°39'00""W"
+Savannah,USSAV,"32°05'00""N","81°05'00""W"
+Charleston,USCHS,"32°47'00""N","79°55'00""W"
+Norfolk,USORF,"36°51'00""N","76°18'00""W"
+Baltimore,USBAL,"39°16'00""N","76°35'00""W"
+Philadelphia,USPHL,"39°57'00""N","75°08'00""W"
+Newark,USNWK,"40°42'00""N","74°09'00""W"
+Boston,USBOS,"42°21'00""N","71°03'00""W"
